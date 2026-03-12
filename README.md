@@ -10,10 +10,7 @@ The project demonstrates **frontend architecture, state management, role-based U
 ## 🚀 Live Demo
 
 🔗 **Live Application:**
-https://your-app.vercel.app
-
-🔗 **GitHub Repository:**
-https://github.com/yourusername/support-ai
+https://supportdashboard-five.vercel.app/
 
 ---
 
