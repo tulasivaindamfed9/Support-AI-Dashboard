@@ -231,3 +231,5 @@ React • TypeScript • Redux • JavaScript • HTML • CSS • Tailwind
 ## ⭐ If you like this project
 
 Please consider giving it a **star on GitHub**.
+
+Connect with me on linkedin :  **https://www.linkedin.com/in/tulasi-vaindam/**
